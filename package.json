@@ -1,0 +1,32 @@
+{
+  "name": "pretty-select-style",
+  "description": "insert css for a prettier select",
+  "keywords": [
+    "svg",
+    "style",
+    "css",
+    "select",
+    "browserify"
+  ],
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jameskyburz/pretty-select-style.git"
+  },
+  "author": {
+    "name": "James Kyburz",
+    "email": "james.kyburz@gmail.com"
+  },
+  "browserify": {
+    "transform": [
+      "brfs"
+    ]
+  },
+  "dependencies": {
+    "insert-css": "^0.1.1",
+    "brfs": "^1.0.1",
+    "browserify": "^3.39.0"
+  },
+  "license": "MIT"
+}
