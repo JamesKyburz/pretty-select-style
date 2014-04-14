@@ -5,7 +5,6 @@ select::-ms-expand {
 select {
   width: 100px;
   display: inline-block;
-  color: transparent;
   outline: none;
   text-shadow: 0 0 0 #000;
   border: 1px solid #555;
