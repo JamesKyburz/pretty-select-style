@@ -14,7 +14,7 @@ select {
 
   background: url(#{backgroundUrl}) right 7px no-repeat, -webkit-linear-gradient(bottom, #fff 0%, #eee 100%);
   background: url(#{backgroundUrl}) right 7px no-repeat, -o-linear-gradient(bottom, #fff 0%, #eee 100%);
-  background: url(#{backgroundUrl}) right 7px no-repeat, -moz-linear-gradient(bottom, #fff 0%, #eee 100%);
+  background: -moz-linear-gradient(bottom, #fff 0%, #eee 100%);
   background: url(#{backgroundUrl}) right 7px no-repeat, -ms-linear-gradient(bottom, #fff 0%, #eee 100%);
   background: url(#{backgroundUrl}) right 7px no-repeat, linear-gradient(bottom, #fff 0%, #eee 100%);
 
@@ -31,7 +31,5 @@ select {
   -webkit-border-radius: 0.5em;
   border-radius: 0.5em;
   box-shadow: 1px 1px 1px #fff;
-  text-indent: 0.01px;
-  text-overflow: '';
 }
 
