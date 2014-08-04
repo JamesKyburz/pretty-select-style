@@ -6,7 +6,7 @@ Styles select with only css
 
 ![how-it-looks](https://dl.dropboxusercontent.com/u/11380518/pretty-select-style.png)
 
-Try it out on [requirebin](http://requirebin.com/?gist=10385476)
+Try it out! [![view on requirebin](http://requirebin.com/badge.png)](http://requirebin.com/?gist=10385476)
 
 #Browser support
 
