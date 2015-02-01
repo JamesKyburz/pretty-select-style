@@ -12,7 +12,7 @@ Try it out! [![view on requirebin](http://requirebin.com/badge.png)](http://requ
 
 + IE10 and above
 + Chrome
-+ Firefox (see update)
++ Firefox 35+
 + Opera
 + IOS 7
 + Safari
@@ -22,14 +22,6 @@ require('pretty-select-style');
 ```
 
 Use with [browserify](http://browserify.org):
-
-# Firefox 29+ update
-
-Because FF 29+ doesn't allow hiding the arrow with css anymore....
-
-I have removed the background image for now for all firefox versions!
-
-Soon to be fixed in FF as `-ms-appearance: none;` works in [Nightly](https://nightly.mozilla.org/).
 
 ![how-it-looks-in-ff](https://dl.dropboxusercontent.com/u/11380518/select-style-ff.png)
 
