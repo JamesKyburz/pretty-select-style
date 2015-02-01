@@ -14,7 +14,7 @@ select {
 
   background: url(#{backgroundUrl}) right 7px no-repeat, -webkit-linear-gradient(bottom, #fff 0%, #eee 100%);
   background: url(#{backgroundUrl}) right 7px no-repeat, -o-linear-gradient(bottom, #fff 0%, #eee 100%);
-  background: -moz-linear-gradient(bottom, #fff 0%, #eee 100%);
+  background: url(#{backgroundUrl}) right 7px no-repeat, -moz-linear-gradient(bottom, #fff 0%, #eee 100%);
   background: url(#{backgroundUrl}) right 7px no-repeat, -ms-linear-gradient(bottom, #fff 0%, #eee 100%);
   background: url(#{backgroundUrl}) right 7px no-repeat, linear-gradient(bottom, #fff 0%, #eee 100%);
 
