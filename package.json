@@ -24,8 +24,8 @@
     ]
   },
   "dependencies": {
-    "insert-css": "^0.1.1",
-    "brfs": "^1.0.1"
+    "insert-css": "0.1.1",
+    "brfs": "1.4.1"
   },
   "license": "MIT"
 }
