@@ -1,5 +1,7 @@
 # pretty-select-style
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JamesKyburz/pretty-select-style.svg)](https://greenkeeper.io/)
+
 pretty select style
 
 Styles select with only css
